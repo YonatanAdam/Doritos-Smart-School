@@ -23,8 +23,3 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
-
----
-
-Feel free to adjust and expand upon this README according to your project's specific needs and requirements!
