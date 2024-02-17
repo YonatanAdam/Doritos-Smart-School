@@ -1,0 +1,50 @@
+﻿<Window x:Class="YonatanFinalProj.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:YonatanFinalProj"
+        xmlns:HamburgerMenu="clr-namespace:HamburgerMenu;assembly=HamburgerMenu"
+        mc:Ignorable="d"
+        Title="סמארט סקול - יונתן א.ש" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="293*"/>
+            <RowDefinition Height="141*"/>
+        </Grid.RowDefinitions>
+        
+        
+
+        <TextBlock x:Name="txt"
+                   HorizontalAlignment="Left"
+                  Grid.Row="1"
+                   TextWrapping="Wrap"
+                   Text="text"
+                   VerticalAlignment="Center"
+                   Height="118" Width="192"/>
+
+        
+
+        <ListView x:Name="lstView" Grid.Row="0">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn DisplayMemberBinding="{Binding FirstName}" Header="First Name" Width="150"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding LastName}" Header="Last Name" Width="100"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding City.CityName}" Header="City" Width="100"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Telephone}" Header="Telephone" Width="150"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <Button Content="Button"
+                HorizontalAlignment="Center"
+              Grid.Row="1"
+                VerticalAlignment="Center"
+                Click="Button_Click" Height="20" Width="40"/>
+        <Frame x:Name="myFrame"
+               Source="FirstPage.xaml"
+               NavigationUIVisibility="Hidden">
+        </Frame>
+    </Grid>
+
+</Window>

@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\YonatanFinalProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA93F21-F94E-43A5-8EDD-CC6EE6654A22}|Model\\Model.csproj|d:\\yonatanfinalproj\\model\\lecturelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA93F21-F94E-43A5-8EDD-CC6EE6654A22}|Model\\Model.csproj|solutionrelative:model\\lecturelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A214A1D7-79C6-44A8-835A-E6F29A0BD78F}|ViewModel\\ViewModel.csproj|D:\\YonatanFinalProj\\viewmodel\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{A214A1D7-79C6-44A8-835A-E6F29A0BD78F}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA93F21-F94E-43A5-8EDD-CC6EE6654A22}|Model\\Model.csproj|d:\\yonatanfinalproj\\model\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{DAA93F21-F94E-43A5-8EDD-CC6EE6654A22}|Model\\Model.csproj|solutionrelative:model\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6757B3-5D31-4D8C-B369-798134451C9D}|YonatanWPFProj\\YonatanFinalProj.csproj|D:\\YonatanFinalProj\\yonatanwpfproj\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B6757B3-5D31-4D8C-B369-798134451C9D}|YonatanWPFProj\\YonatanFinalProj.csproj|solutionrelative:yonatanwpfproj\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6757B3-5D31-4D8C-B369-798134451C9D}|YonatanWPFProj\\YonatanFinalProj.csproj|D:\\YonatanFinalProj\\yonatanwpfproj\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6757B3-5D31-4D8C-B369-798134451C9D}|YonatanWPFProj\\YonatanFinalProj.csproj|solutionrelative:yonatanwpfproj\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LectureList.cs",
+              "DocumentMoniker": "D:\\YonatanFinalProj\\Model\\LectureList.cs",
+              "RelativeDocumentMoniker": "Model\\LectureList.cs",
+              "ToolTip": "D:\\YonatanFinalProj\\Model\\LectureList.cs",
+              "RelativeToolTip": "Model\\LectureList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T09:36:36.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\YonatanFinalProj\\Model\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Model\\ClassDiagram1.cd",
+              "ToolTip": "D:\\YonatanFinalProj\\Model\\ClassDiagram1.cd",
+              "RelativeToolTip": "Model\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-02-17T09:29:04.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\YonatanFinalProj\\ViewModel\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ViewModel\\ClassDiagram1.cd",
+              "ToolTip": "D:\\YonatanFinalProj\\ViewModel\\ClassDiagram1.cd",
+              "RelativeToolTip": "ViewModel\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-02-17T09:29:04.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\YonatanFinalProj\\YonatanWPFProj\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "YonatanWPFProj\\MainWindow.xaml",
+              "ToolTip": "D:\\YonatanFinalProj\\YonatanWPFProj\\MainWindow.xaml",
+              "RelativeToolTip": "YonatanWPFProj\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-17T09:29:04.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\YonatanFinalProj\\YonatanWPFProj\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "YonatanWPFProj\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\YonatanFinalProj\\YonatanWPFProj\\MainWindow.xaml.cs",
+              "RelativeToolTip": "YonatanWPFProj\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-02-17T09:29:04.421Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
